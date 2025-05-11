@@ -1,9 +1,3 @@
-# ALX Airbnb Project Documentation
-
-This repository documents the design, structure, and system architecture of the Airbnb Clone Backend project. It includes visual diagrams and descriptive files to guide the development and understanding of the system’s core features and interactions.
-
----
-
 ## 0. Documenting Project Features and Functionalities
 
 **File:** `features-and-functionalities/alx-airbnb-project-documentation.png`  
