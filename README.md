@@ -23,6 +23,8 @@ This diagram outlines the core backend features and functionalities the system m
 
 ![Project Features](features-and-functionalities/features-and-functionalities.png)
 
+---
+
 ## 1. Design the Use Case Diagram of the Features and Functionalities
 
 **File:** `use-case-diagram/use-case-diagram.png`  
@@ -50,7 +52,7 @@ The user stories capture user-centered requirements based on the use case diagra
 - As an admin, I want to review property listings to ensure quality control.  
 - As a guest, I want to leave reviews so others can know my experience.
 
-See all user stories in [`user-stories/user-stories.md`](user-stories/user-stories.md)
+👉 See all user stories in [`user-stories/user-stories.md`](user-stories/user-stories.md)
 
 ---
 
@@ -59,7 +61,7 @@ See all user stories in [`user-stories/user-stories.md`](user-stories/user-stori
 **File:** `data-flow-diagram/data-flow.png`  
 **Directory:** `data-flow-diagram/`
 
-This Data Flow Diagram (DFD) illustrates how data moves through the system's core modules, such as:
+This Data Flow Diagram (DFD) illustrates how data moves through the system's core modules:
 
 - **Inputs:** User credentials, property data, booking requests, payment info  
 - **Processes:** Authentication, Booking Handler, Payment Processor  
@@ -79,3 +81,4 @@ This flowchart maps out the steps involved in a core backend process, such as **
 - Input Validation → Check Existing Account → Create User → Hash Password → Store in DB → Send Confirmation → Login Redirect
 
 ![Flowchart](flowcharts/data-flow-diagram.png)
+
