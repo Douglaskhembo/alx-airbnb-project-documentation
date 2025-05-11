@@ -4,7 +4,7 @@ This repository documents the design, structure, and system architecture of the 
 
 ---
 
-## 1. Features and Functionalities
+## 0. Documenting Project Features and Functionalities
 
 **File:** `features-and-functionalities/alx-airbnb-project-documentation.png`  
 **Directory:** `features-and-functionalities/`
@@ -22,7 +22,7 @@ This diagram outlines the core backend features the system must support:
 
 ---
 
-## 2. Use Case Diagram
+## 1. Design the Use Case Diagram of the Features and Functionalities
 
 **File:** `use-case-diagram/use-case-diagram.png`  
 **Directory:** `use-case-diagram/`
@@ -35,7 +35,7 @@ This diagram illustrates how system users (actors) interact with various backend
 
 ---
 
-## 3. User Stories
+## 2. Convert Your Use Case Diagram to User Stories
 
 **File:** `user-stories/user-stories.md`  
 **Directory:** `user-stories/`
