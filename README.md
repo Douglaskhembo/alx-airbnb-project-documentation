@@ -71,7 +71,7 @@ This Data Flow Diagram (DFD) illustrates how data moves through the system's cor
 
 ## 4. Design a Flowchart for System Processes
 
-**File:** `flowcharts/flowchart.png`  
+**File:** `flowcharts/data-flow-diagram.png`  
 **Directory:** `flowcharts/`
 
 This flowchart maps out the steps involved in a core backend process, such as **User Registration and Authentication**:
