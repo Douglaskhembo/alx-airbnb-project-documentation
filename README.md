@@ -6,7 +6,7 @@ This repository contains the documentation and design artifacts for the backend 
 
 ## 0. Documenting Project Features and Functionalities
 
-**File:** `features-and-functionalities/alx-airbnb-project-documentation.png`  
+**File:** `features-and-functionalities/features-and-functionalities.png`  
 **Directory:** `features-and-functionalities/`
 
 This diagram outlines the core backend features and functionalities the system must support:
@@ -21,7 +21,7 @@ This diagram outlines the core backend features and functionalities the system m
 - Admin Controls and Moderation  
 - Secure Access Control and Session Management  
 
-![Project Features](features-and-functionalities/alx-airbnb-project-documentation.png)
+![Project Features](features-and-functionalities/features-and-functionalities.png)
 
 ## 1. Design the Use Case Diagram of the Features and Functionalities
 
@@ -65,7 +65,7 @@ This Data Flow Diagram (DFD) illustrates how data moves through the system's cor
 - **Processes:** Authentication, Booking Handler, Payment Processor  
 - **Outputs:** Booking confirmation, payment status, notifications
 
-![Data Flow Diagram](data-flow-diagram/Data_Flow_Diagram.png)
+![Data Flow Diagram](data-flow-diagram/data-flow.png)
 
 ---
 
@@ -78,4 +78,4 @@ This flowchart maps out the steps involved in a core backend process, such as **
 
 - Input Validation → Check Existing Account → Create User → Hash Password → Store in DB → Send Confirmation → Login Redirect
 
-![Flowchart](flowcharts/flowchart.png)
+![Flowchart](flowcharts/data-flow-diagram.png)
