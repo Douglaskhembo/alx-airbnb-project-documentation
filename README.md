@@ -21,7 +21,7 @@ This diagram outlines the core backend features and functionalities the system m
 - Admin Controls and Moderation  
 - Secure Access Control and Session Management  
 
----
+![Use Case Diagram](eatures-and-functionalities/alx-airbnb-project-documentation.png)
 
 ## 1. Design the Use Case Diagram of the Features and Functionalities
 
