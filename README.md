@@ -56,7 +56,7 @@ See all user stories in [`user-stories/user-stories.md`](user-stories/user-stori
 
 ## 3. Design a Data Flow Diagram for Your Features and Functionalities
 
-**File:** `data-flow-diagram/Data_Flow_Diagram.png`  
+**File:** `data-flow-diagram/data-flow.png`  
 **Directory:** `data-flow-diagram/`
 
 This Data Flow Diagram (DFD) illustrates how data moves through the system's core modules, such as:
