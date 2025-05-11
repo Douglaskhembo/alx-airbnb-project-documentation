@@ -79,21 +79,3 @@ This flowchart maps out the steps involved in a core backend process, such as **
 - Input Validation → Check Existing Account → Create User → Hash Password → Store in DB → Send Confirmation → Login Redirect
 
 ![Flowchart](flowcharts/flowchart.png)
-
----
-
-## 5. Write Requirement Specifications for Backend Features
-
-**File:** `requirements.md`  
-**Directory:** `/` (root directory)
-
-The `requirements.md` file defines technical and functional requirements for key backend modules. It includes:
-
-- API endpoints (e.g., `/api/v1/register`, `/api/v1/properties`)  
-- Expected inputs/outputs  
-- Validation rules  
-- Performance expectations  
-- Authentication and authorization flows  
-- Database schema references
-
-See full specifications in [`requirements.md`](requirements.md)
